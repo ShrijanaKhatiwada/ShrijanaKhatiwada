@@ -24,7 +24,7 @@ Here are some of my projects:
 
 ## 🏆 GitHub Stats
 
-![Archana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArchuThapa&show_icons=true&theme=radical)
+![Archana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShrijanaKhatiwada&show_icons=true&theme=radical)
 
 Thank you for visiting my profile! Have a great day! 😊
 
@@ -32,4 +32,4 @@ Thank you for visiting my profile! Have a great day! 😊
 
 If you find my projects interesting, please give them a star! Your support means a lot to me.
 
-[![Stars](https://img.shields.io/github/stars/ArchuThapa/archuthapa?style=social)](https://github.com/ShrijanaKhatiwada/)
+[![Stars](https://img.shields.io/github/stars/ShrijanaKhatiwada/ShrijanaKhatiwada/?style=social)](https://github.com/ShrijanaKhatiwada/)
